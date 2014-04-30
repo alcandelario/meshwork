@@ -8,6 +8,11 @@ This mvp is a tool designed to help unite Chicago's vast network of small to med
 It can be used as a simple phonebook to help organizations keep in touch, a resource map for anyone interested in finding organizations with a certain mission and a public facing calendar that collects information about upcoming events throughout the city.
 
 
+DEMO hosted at: fydasite.com/meshwork
+
+user: guest@user.com
+ pwd: password
+
 Implementation
 ==============
 Server-side MVC application (CodeIgniter) 
